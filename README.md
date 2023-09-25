@@ -13,4 +13,4 @@ repository and Kaggle. This data set consists of the records of consumers from t
 
 ## 
 
-![Receiver Output](https://github.com/ayushkale1909/IP-Multicast/blob/main/Multicast_Receiver-test-output%20.png)
+![Receiver Output](https://github.com/ayushkale1909/Credit-Card-Approval-Prediction-Model-using-Machine-Learning/blob/main/Screenshot%202023-09-25%20164542.jpg)
